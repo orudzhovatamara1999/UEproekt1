@@ -74,6 +74,8 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/_ExtrrnalActors_
+Content/__ExtrrnalActors__/*
 
-Content/_ExtrrnalObjects_
+Content/__ExtrrnalObjects__/*
+
+Content/__DarkForest__/*
